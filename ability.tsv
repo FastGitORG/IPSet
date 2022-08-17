@@ -1,0 +1,6 @@
+ability	org	xyz
+full	hub;raw;@;download;archive	hub
+org	hub;raw;@;download;archive	
+xyz		hub
+download	download;archive	
+raw	raw	
